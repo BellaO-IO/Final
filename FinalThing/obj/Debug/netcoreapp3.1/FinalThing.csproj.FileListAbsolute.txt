@@ -1,0 +1,16 @@
+C:\Users\Bella\source\repos\FinalThing\FinalThing\bin\Debug\netcoreapp3.1\FinalThing.exe
+C:\Users\Bella\source\repos\FinalThing\FinalThing\bin\Debug\netcoreapp3.1\FinalThing.deps.json
+C:\Users\Bella\source\repos\FinalThing\FinalThing\bin\Debug\netcoreapp3.1\FinalThing.runtimeconfig.json
+C:\Users\Bella\source\repos\FinalThing\FinalThing\bin\Debug\netcoreapp3.1\FinalThing.runtimeconfig.dev.json
+C:\Users\Bella\source\repos\FinalThing\FinalThing\bin\Debug\netcoreapp3.1\FinalThing.dll
+C:\Users\Bella\source\repos\FinalThing\FinalThing\bin\Debug\netcoreapp3.1\FinalThing.pdb
+C:\Users\Bella\source\repos\FinalThing\FinalThing\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Bella\source\repos\FinalThing\FinalThing\obj\Debug\netcoreapp3.1\FinalThing.csproj.AssemblyReference.cache
+C:\Users\Bella\source\repos\FinalThing\FinalThing\obj\Debug\netcoreapp3.1\FinalThing.AssemblyInfoInputs.cache
+C:\Users\Bella\source\repos\FinalThing\FinalThing\obj\Debug\netcoreapp3.1\FinalThing.AssemblyInfo.cs
+C:\Users\Bella\source\repos\FinalThing\FinalThing\obj\Debug\netcoreapp3.1\FinalThing.csproj.CoreCompileInputs.cache
+C:\Users\Bella\source\repos\FinalThing\FinalThing\obj\Debug\netcoreapp3.1\FinalThing.csproj.CopyComplete
+C:\Users\Bella\source\repos\FinalThing\FinalThing\obj\Debug\netcoreapp3.1\FinalThing.dll
+C:\Users\Bella\source\repos\FinalThing\FinalThing\obj\Debug\netcoreapp3.1\FinalThing.pdb
+C:\Users\Bella\source\repos\FinalThing\FinalThing\obj\Debug\netcoreapp3.1\FinalThing.genruntimeconfig.cache
+C:\Users\Bella\source\repos\FinalThing\FinalThing\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

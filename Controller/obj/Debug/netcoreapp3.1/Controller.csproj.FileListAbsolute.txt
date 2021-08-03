@@ -1,0 +1,7 @@
+C:\Users\Bella\source\repos\FinalThing\Controller\obj\Debug\netcoreapp3.1\Controller.csproj.AssemblyReference.cache
+C:\Users\Bella\source\repos\FinalThing\Controller\obj\Debug\netcoreapp3.1\Controller.AssemblyInfoInputs.cache
+C:\Users\Bella\source\repos\FinalThing\Controller\obj\Debug\netcoreapp3.1\Controller.AssemblyInfo.cs
+C:\Users\Bella\source\repos\FinalThing\Controller\obj\Debug\netcoreapp3.1\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Bella\source\repos\FinalThing\Controller\obj\Debug\netcoreapp3.1\Controller.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bella\source\repos\FinalThing\Controller\obj\Debug\netcoreapp3.1\Controller.RazorAssemblyInfo.cache
+C:\Users\Bella\source\repos\FinalThing\Controller\obj\Debug\netcoreapp3.1\Controller.RazorAssemblyInfo.cs
