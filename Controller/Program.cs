@@ -20,7 +20,7 @@ namespace Controller
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseStartup<asdfg>();
+                    webBuilder.UseStartup<Startup>();
                 });
     }
 }

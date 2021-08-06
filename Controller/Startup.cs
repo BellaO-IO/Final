@@ -12,16 +12,9 @@ using System.Threading.Tasks;
 
 namespace Controller
 {
-    public class asdfg
-
+    public class Startup
     {
-        private readonly IDbConnection _conn;
-        public asdfg(IDbConnection conn)
-        {
-            _conn = conn;
-        }
-
-        public asdfg(IConfiguration configuration)
+        public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
         }
@@ -60,7 +53,7 @@ namespace Controller
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
-
         }
     }
 }
+

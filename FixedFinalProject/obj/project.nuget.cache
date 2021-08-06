@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z1HjCWvyYRAVSGACNE6V3DXmpWdz3ZObxSO7yknaQ5phUXOAQCz6MGGwWQkyvdsSU4CASdZ2dFPySUr5GVunMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bella\\source\\repos\\FinalThing\\FixedFinalProject\\FixedFinalProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bella\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Bella\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

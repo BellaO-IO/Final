@@ -1,0 +1,41 @@
+﻿@model Root
+<table class="table table-striped table-dark pagination-lg">
+    <thead class="thead-light">
+        <tr>
+            <th>rank</th>
+            <th>title</th>
+            <th>Price</th>
+            <th>rating_count</th>
+            <th>release_date</th>
+            <th>publisher</th>
+            <th>rating</th>
+            <th>in_app_purchases</th>
+            <th>image</th>
+        </tr>
+    </thead>
+
+    @foreach (var app in Model.topChart)
+    {
+<tr>
+    <td style="color: black">@app.rank</td>
+    <td><a href="@app.apple_store_url">@app.title</a></td>
+    <td style="color: black">@app.price</td>
+    <td style="color: black">@app.rating_count</td>
+    <td style="color: black">@app.release_date</td>
+    <td style="color: black">@app.publisher</td>
+    <td style="color: black">@app.rating</td>
+    <td style="color: black">@app.in_app_purchases</td>
+    <td><img src="@app.icon_url"/></td>
+
+
+</tr>
+        
+        }
+
+    </table>
+
+<h1>
+
+</h1>
+
+ 

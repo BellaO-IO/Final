@@ -10,7 +10,8 @@ using System.Threading.Tasks;
 
 namespace Controller.Controllers
 {
-    public class HomeController : ControllerBase
+    public class HomeController : Controller
+        //controller is weird
     {
         private readonly ILogger<HomeController> _logger;
 
@@ -38,7 +39,7 @@ namespace Controller.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-            
+                //???????
         }
 
         private IActionResult View(ErrorViewModel errorViewModel)

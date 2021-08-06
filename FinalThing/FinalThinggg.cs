@@ -27,6 +27,8 @@ namespace FinalThing
                 Console.WriteLine(app.title);
                 Console.WriteLine($"{app.price}$");
                 Console.WriteLine($"{app.rating_count} have rated this app.");
+
+                //doesnt affect the website only console
             }
         }
 

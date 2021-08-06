@@ -1,4 +1,8 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 using MySql.Data.MySqlClient;
 using System.Data;
 
@@ -45,6 +49,6 @@ namespace Controller
             IDbConnection conn = new MySqlConnection(Configuration.GetConnectionString("bestbuy"));
             conn.Open();
             return conn;
-        });
+        }
     }
 }

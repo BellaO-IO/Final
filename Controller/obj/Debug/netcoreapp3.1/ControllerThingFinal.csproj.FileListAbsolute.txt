@@ -37,3 +37,14 @@ C:\Users\Bella\source\repos\FinalThing\Controller\obj\Debug\netcoreapp3.1\Contro
 C:\Users\Bella\source\repos\FinalThing\Controller\obj\Debug\netcoreapp3.1\ControllerThingFinal.dll
 C:\Users\Bella\source\repos\FinalThing\Controller\obj\Debug\netcoreapp3.1\ControllerThingFinal.pdb
 C:\Users\Bella\source\repos\FinalThing\Controller\obj\Debug\netcoreapp3.1\ControllerThingFinal.genruntimeconfig.cache
+C:\Users\Bella\source\repos\FinalThing\Controller\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Bella\source\repos\FinalThing\Controller\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Bella\source\repos\FinalThing\Controller\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Bella\source\repos\FinalThing\Controller\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bella\source\repos\FinalThing\Controller\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Bella\source\repos\FinalThing\Controller\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Bella\source\repos\FinalThing\Controller\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Bella\source\repos\FinalThing\Controller\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Bella\source\repos\FinalThing\Controller\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Bella\source\repos\FinalThing\Controller\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bella\source\repos\FinalThing\Controller\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
